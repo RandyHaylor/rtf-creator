@@ -1,3 +1,5 @@
+<img src="./rtf-creator.png" alt="lawn care typographic hierarchy example graphic" width="150">
+
 <h1>rtf-creator</h1>
 <p>AI coding skill for generating valid RTF (Rich Text Format) documents from scratch</p>
 
